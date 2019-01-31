@@ -1,0 +1,33 @@
+{
+  "name": "tea-select",
+  "version": "0.0.1",
+  "description": "react select component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tea-react/tea-select.git"
+  },
+  "author": "coffee bi",
+  "license": "MIT",
+  "files": [
+    "src",
+    "dist",
+    "index.js"
+  ],
+  "keywords": [
+    "react",
+    "components",
+    "component",
+    "select",
+    "observer",
+    "observable",
+    "watch"
+  ],
+  "bugs": {
+    "url": "https://github.com/tea-react/tea-select/issues"
+  },
+  "homepage": "https://github.com/tea-react/tea-select#readme"
+}
